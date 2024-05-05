@@ -1,0 +1,69 @@
+baseurl = "https://renauxv.fr/"
+DefaultContentLanguage = "en"
+title = "T. Renaux Verdiere"
+# Using theme as git submodule 
+theme = "beautifulhugo"
+# Or when using theme as hugo module
+# theme = "github.com/halogenica/beautifulhugo"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+googleAnalytics = "G-NV6YT03NR1"
+
+[languages]
+  [languages.en] 
+    contentDir = "content/en" # English
+  [languages.fr]
+    contentDir = "content/fr" # Français
+
+[Params]
+  homeTitle = "T.Renaux Verdiere" # Set a different text for the header on the home page
+  subtitle = "Blog of an aspiring researcher"
+  mainSections = ["post","posts"]
+  logo = "img/logo_website.png" # Expecting square dimensions
+  favicon = "img/favicon_logo.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+#  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+#  disclaimerText = "Everyone can make mikstakes. If you found an error on this website please write to me."
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+  name = "T. RENAUX VERDIRE"
+  email = "theo.renaux-verdiere@univ-rouen.fr"
+  github = "https://github.com/titusse3"
+
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 2

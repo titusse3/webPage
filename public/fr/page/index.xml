@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on T. Renaux Verdiere</title>
+    <link>https://renauxv.fr/fr/page/</link>
+    <description>Recent content in Pages on T. Renaux Verdiere</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>theo.renaux-verdiere@univ-rouen.fr (T. RENAUX VERDIRE)</managingEditor>
+    <webMaster>theo.renaux-verdiere@univ-rouen.fr (T. RENAUX VERDIRE)</webMaster>
+    <atom:link href="https://renauxv.fr/fr/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>À propos de moi</title>
+      <link>https://renauxv.fr/fr/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>theo.renaux-verdiere@univ-rouen.fr (T. RENAUX VERDIRE)</author>
+      <guid>https://renauxv.fr/fr/page/about/</guid>
+      <description>👋 A propos de moi Bienvenue sur mon blog ! Je suis un étudiant en informatique, profondément passionné ce domaine si vaste. Voici quelques informations sur moi et ce que je fais :&#xA;🎓 Education Étudiant universitaire&#xA;Je poursuis actuellement une licence en informatique à l&amp;rsquo;université de Rouen. Mon parcours académique est centré sur l&amp;rsquo;exploration en profondeurs de l&amp;rsquo;informatique et ses myriades d&amp;rsquo;applications et de domaine.&#xA;👨‍🎓 Tutorat et partage de connaissances Je suis profondément passionné par le partage des connaissances et l&amp;rsquo;enseignement.</description>
+    </item>
+  </channel>
+</rss>
