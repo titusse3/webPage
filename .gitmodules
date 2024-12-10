@@ -1,3 +1,6 @@
 [submodule "themes/beautifulhugo"]
 	path = themes/beautifulhugo
 	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "static/search"]
+	path = static/search
+	url = git@github.com:titusse3/Search-pattern.git
